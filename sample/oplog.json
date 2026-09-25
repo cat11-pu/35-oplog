@@ -1,0 +1,12 @@
+{
+  "gap_code": "E_OP_GAP",
+  "text": "abcd",
+  "offline_from": 2,
+  "ops": [
+    {"id": "o2", "seq": 1, "kind": "insert", "pos": 1, "text": "X"},
+    {"id": "o1", "seq": 0, "kind": "insert", "pos": 0, "text": "Z"},
+    {"id": "o2", "seq": 1, "kind": "insert", "pos": 1, "text": "X"},
+    {"id": "o4", "seq": 3, "kind": "delete", "pos": 2},
+    {"id": "o3", "seq": 2, "kind": "insert", "pos": 4, "text": "Y"}
+  ]
+}

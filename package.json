@@ -1,0 +1,5 @@
+{
+  "name": "oplog",
+  "private": true,
+  "type": "module"
+}
